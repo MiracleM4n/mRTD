@@ -1,0 +1,16 @@
+name: mRTD
+main: net.D3GN.MiracleM4n.mRTD.mRTD
+version: 1.7.1
+author: MiracleM4n
+website: http://d3gn.net/
+description: Roll The Dice..'Nuff said.
+commands:
+    mrtd:
+        description: Rolls Dice.
+        aliases: [ mrollthedice, rtd, rollthedice ]
+        usage: |
+            /<command>
+            Example: /<command> - Rolls The Dice.
+            Example: /<command> help - Show this info.
+            Example: /<command> reload - Reloads config.
+            
